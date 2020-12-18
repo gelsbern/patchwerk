@@ -21,7 +21,7 @@ Block <input id="block" value="0"/><br>
 <input id="inspiration" type="checkbox"/> Inspiration / Ancestral Healing<br>
 <input id="recalc" type="button" value="Calculate" onclick="Calculate()">
 <br><br>
-Results:
+Results:<br>
 <div id="output">&nbsp;</div>
 		
 		
