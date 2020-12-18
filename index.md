@@ -11,12 +11,8 @@
 &#8226; Hateful Strike can never crit or be a crushing blow.<br><br>
 &#8226; Hateful Strike hits roughly every 1.2 seconds.<br><br>
 &#8226; Hateful Strike does NOT try to reapply upon a dodge/parry/miss. This is a common misconception (if the person with the highest health dodges/etc. and nobody else has been healed to higher health, then the same person will also take the next HS, which leads to this misconception). This means that dodge/parry is extremely important because it gives healers 1.2 more seconds to top off tanks.<br><br>
-<br><br>
-This fight will generally require your Hateful Strike tanks to be buffed using Flasks of the Titans and Stoneshield Potions and possibly to be specced in Protection.
-<br><br>
-If a druid must be used for Hateful Strikes, they should have close to 75% damage mitigation or more, plenty of stamina gear, and an appropriate spec.
-<br><br>
-Use the Hateful Strike Damage Calculator to determine if your tanks are geared with sufficient armor and hit points to survive Hateful Strikes.
+
+This fight will generally require your Hateful Strike tanks to be buffed using Flasks of the Titans and Stoneshield Potions and possibly to be specced in Protection.  If a druid must be used for Hateful Strikes, they should have close to 75% damage mitigation or more, plenty of stamina gear, and an appropriate spec.  Use the Hateful Strike Damage Calculator to determine if your tanks are geared with sufficient armor and hit points to survive Hateful Strikes.
 <br><br>
 Base Armor <input id="armor" value="9500"/><br>
 Block <input id="block" value="0"/><br>
