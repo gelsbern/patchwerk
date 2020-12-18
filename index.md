@@ -5,7 +5,18 @@
 
 <div id="content">
 <div id="text"></div>
+	
+* Hateful Strike hits the person in range with the most hitpoints primed by aggro. (It will hit a rogue if your tanks aren't healed up fast enough).
+* Hateful Strike hits for between 22100 and 29900 damage before mitigation (= avg 26000 non-mitigated damage). This means it is roughly 7500 average damage after mitigation on tier-2 warriors. The maximum hit will deal 29900*(damage modifier by armor); this means that, with 70% damage reduction, for example, a tank needs 29900*30%=8970 HP at all times.
+* Hateful Strike can never crit or be a crushing blow.
+* Hateful Strike hits roughly every 1.2 seconds
+* Hateful Strike does NOT try to reapply upon a dodge/parry/miss. This is a common misconception (if the person with the highest health dodges/etc. and nobody else has been healed to higher health, then the same person will also take the next HS, which leads to this misconception). This means that dodge/parry is extremely important because it gives healers 1.2 more seconds to top off tanks.
 
+This fight will generally require your Hateful Strike tanks to be buffed using Flasks of the Titans and Stoneshield Potions and possibly to be specced in Protection.
+
+If a druid must be used for Hateful Strikes, they should have close to 75% damage mitigation or more, plenty of stamina gear, and an appropriate spec.
+
+Use the Hateful Strike Damage Calculator to determine if your tanks are geared with sufficient armor and hit points to survive Hateful Strikes.
 
 Base Armor <input id="armor" value="9500"/><br>
 Block <input id="block" value="0"/><br>
