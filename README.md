@@ -36,8 +36,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<body>
-
 <div id="header">
 <h1>Patchwerk Hateful Strike Calculator</h1>
 </div>
@@ -117,6 +115,5 @@ function Calculate()
 </script>
 
 
-</body>
-</html>	
+
 
