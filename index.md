@@ -1,4 +1,4 @@
-<title> Patchwerk Hateful Strike Calulator </title>
+<title> Patchwerk Hateful Strike Calculator </title>
 <div id="header">
 <h1>Patchwerk Hateful Strike Calculator</h1>
 </div>
