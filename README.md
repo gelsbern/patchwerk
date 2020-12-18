@@ -7,11 +7,11 @@
 <div id="text"></div>
 
 
-Base Armor <input id="armor" value="9500"/>
-Block <input id="block" value="0"/>
-<input id="stance" type="checkbox"/> Defensive Stance
-<input id="stoneshield" type="checkbox"/> Greater Stoneshield Potion
-<input id="inspiration" type="checkbox"/> Inspiration / Ancestral Healing
+Base Armor <input id="armor" value="9500"/><br>
+Block <input id="block" value="0"/><br>
+<input id="stance" type="checkbox"/> Defensive Stance<br>
+<input id="stoneshield" type="checkbox"/> Greater Stoneshield Potion<br>
+<input id="inspiration" type="checkbox"/> Inspiration / Ancestral Healing<br>
 <input id="recalc" type="button" value="Calculate" onclick="Calculate()">
 
 <div id="output">&nbsp;</div>
