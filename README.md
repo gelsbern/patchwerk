@@ -66,11 +66,10 @@ function Calculate()
    var damage;
    var outstr;
 
-   outstr = "<ul>\n";
-   outstr += "<li>Maximum Damage = " + String(GetDamageDone(stats, 29900)) + "</li>\n";
-   outstr += "<li>Minimum Damage = " + String(GetDamageDone(stats, 22100)) + "</li>\n";
-   outstr += "</ul>";
-
+   outstr = "\n";
+   outstr += "Maximum Damage = " + String(GetDamageDone(stats, 29900)) + "<br>\n";
+   outstr += "Minimum Damage = " + String(GetDamageDone(stats, 22100)) + "<br>\n";
+   
    document.getElementById("output").innerHTML = outstr;
 }
 
