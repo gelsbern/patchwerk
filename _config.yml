@@ -1,10 +1,8 @@
 github:
   is_project_page: false
+title: Patcwerk Hateful Strike Calulator
 theme: jekyll-theme-hacker
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md
-  - patchwerk.md
   
