@@ -6,14 +6,14 @@
 <div id="content">
 <div id="text"></div>
 
-<ul>
-<li>Base Armor <input id="armor" value="9500"/></li>
-<li>Block <input id="block" value="0"/></li>
-<li><input id="stance" type="checkbox"/> Defensive Stance</li>
-<li><input id="stoneshield" type="checkbox"/> Greater Stoneshield Potion</li>
-<li><input id="inspiration" type="checkbox"/> Inspiration / Ancestral Healing</li>
-<li><input id="recalc" type="button" value="Calculate" onclick="Calculate()"></li>
-</ul>
+
+Base Armor <input id="armor" value="9500"/>
+Block <input id="block" value="0"/>
+<input id="stance" type="checkbox"/> Defensive Stance
+<input id="stoneshield" type="checkbox"/> Greater Stoneshield Potion
+<input id="inspiration" type="checkbox"/> Inspiration / Ancestral Healing
+<input id="recalc" type="button" value="Calculate" onclick="Calculate()">
+
 <div id="output">&nbsp;</div>
 		
 		
